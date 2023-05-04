@@ -10,7 +10,8 @@ Tiene además la posibilidad de modificar la escala de medición, es decir, en �
 También es configurable la frecuencia de adquisición de los sensores (3, 5 o 10 segundos).
 Para la visualización de las temperaturas se pueden elegir entre 2 modos de operación que serán descritos más adelante.
 
-
+Diseño del PCB en Kicad
+Desarrollo del firmware en STM32CubeIDE con kernel U/COS-II
 Descripción
  
 Para este proyecto se utilizó la placa de desarrollo Blue Pill que cuenta con un microprocesador ARM Cortex-M3 STM32F103C8T6 de ST Microelectronics en el cual se ha embebido el Kernel v2.9216. 
