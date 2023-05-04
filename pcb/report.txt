@@ -1,0 +1,11 @@
+Actualizado +3.3V de #PWR07 a #PWR04
+Actualizado GND de #PWR08 a #PWR05
+Actualizado +3.3V de #PWR09 a #PWR06
+Actualizado GND de #PWR010 a #PWR07
+Actualizado +3.3V de #PWR013 a #PWR08
+Actualizado GND de #PWR014 a #PWR09
+Actualizado GND de #PWR04 a #PWR010
+Actualizado GND de #PWR05 a #PWR013
+Actualizado +3.3V de #PWR06 a #PWR014
+Actualizado Conn_01x03 de J5 a J4
+Actualizado UART de J4 a J5
