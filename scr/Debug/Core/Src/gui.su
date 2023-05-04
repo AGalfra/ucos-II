@@ -1,0 +1,12 @@
+gui.c:31:6:guiInit	8	static
+gui.c:50:6:guiInitMenu	16	static
+gui.c:71:6:guiTitle	24	static
+gui.c:86:6:guiItem	16	static
+gui.c:100:6:guiItemSelected	24	static
+gui.c:114:9:guiPress	16	static
+gui.c:139:6:guiFinishMenu	8	static
+gui.c:153:6:guiShowMenu	16	static
+gui.c:184:6:guiMessageBox	32	static
+gui.c:206:6:guiStat	32	static
+gui.c:251:6:guiBitmap	16	static
+gui.c:269:6:guiTemp	96	static

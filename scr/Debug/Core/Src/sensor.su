@@ -1,0 +1,13 @@
+sensor.c:36:6:DS18B20_Init	24	static
+sensor.c:58:6:DS18B20_Del	24	static
+sensor.c:78:9:DS18B20_Start	16	static
+sensor.c:96:6:DS18B20_StartAll	8	static
+sensor.c:111:9:DS18B20_Read	32	static
+sensor.c:158:6:DS18B20_ReadAll	24	static
+sensor.c:178:9:DS18B20_Is18xxx	16	static
+sensor.c:197:9:DS18B20_AllDone	16	static
+sensor.c:305:6:DS18B20_GetROM	24	static
+sensor.c:321:6:DS18B20_WriteROM	24	static
+sensor.c:336:9:DS18B20_Quantity	4	static
+sensor.c:348:9:DS18B20_GetTempC	16	static
+sensor.c:363:9:DS18B20_GetTempF	16	static

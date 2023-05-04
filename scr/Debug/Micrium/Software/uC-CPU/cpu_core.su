@@ -1,0 +1,11 @@
+cpu_core.c:198:7:CPU_Init	4	static
+cpu_core.c:239:7:CPU_SW_Exception	4	static
+cpu_core.c:1116:11:CPU_CntLeadZeros08	24	static
+cpu_core.c:1176:11:CPU_CntLeadZeros16	24	static
+cpu_core.c:1242:11:CPU_CntLeadZeros32	24	static
+cpu_core.c:1322:11:CPU_CntLeadZeros64	24	static
+cpu_core.c:1591:11:CPU_CntTrailZeros08	24	static
+cpu_core.c:1690:11:CPU_CntTrailZeros16	24	static
+cpu_core.c:1789:11:CPU_CntTrailZeros32	24	static
+cpu_core.c:1888:11:CPU_CntTrailZeros64	40	static
+cpu_core.c:1935:13:CPU_PopCnt32	32	static

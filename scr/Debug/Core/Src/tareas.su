@@ -1,0 +1,15 @@
+tareas.c:118:6:StartupTask	24	static
+tareas.c:164:6:Task1	40	static
+tareas.c:253:6:Task2	32	static
+tareas.c:318:6:Task3	48	static
+tareas.c:476:6:Task4	40	static
+tareas.c:536:6:TaskStat	16	static
+tareas.c:557:6:TaskBlink	16	static
+tareas.c:579:6:App_TaskCreate	40	static
+tareas.c:681:6:App_EventCreate	16	static
+tareas.c:720:6:App_InitModules	8	static
+tareas.c:745:6:EdgeAFnct	24	static
+tareas.c:762:6:EdgeButFnct	24	static
+tareas.c:770:6:menuCom	8	static
+tareas.c:785:6:TestOLED	8	static
+tareas.c:813:6:SensorTable	96	static

@@ -1,0 +1,8 @@
+os_sem.c:61:9:OSSemAccept	24	static
+os_sem.c:106:12:OSSemCreate	24	static
+os_sem.c:189:12:OSSemDel	40	static
+os_sem.c:325:7:OSSemPend	32	static
+os_sem.c:442:8:OSSemPendAbort	32	static
+os_sem.c:516:8:OSSemPost	24	static
+os_sem.c:577:8:OSSemQuery	32	static
+os_sem.c:639:7:OSSemSet	32	static

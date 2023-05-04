@@ -1,0 +1,7 @@
+os_mutex.c:97:10:OSMutexAccept	24	static
+os_mutex.c:191:12:OSMutexCreate	24	static
+os_mutex.c:305:12:OSMutexDel	48	static
+os_mutex.c:471:7:OSMutexPend	48	static
+os_mutex.c:645:8:OSMutexPost	24	static
+os_mutex.c:730:8:OSMutexQuery	32	static
+os_mutex.c:790:15:OSMutex_RdyAtPrio	24	static

@@ -1,0 +1,4 @@
+lib_math.c:144:7:Math_Init	8	static
+lib_math.c:172:7:Math_RandSetSeed	24	static
+lib_math.c:212:11:Math_Rand	24	static
+lib_math.c:269:11:Math_RandSeed	24	static

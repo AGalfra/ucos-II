@@ -1,0 +1,5 @@
+test.c:35:6:TestLines	48	static
+test.c:119:6:TestRectangles	48	static
+test.c:142:6:TestFilledRectangles	48	static
+test.c:166:6:TestCircles	32	static
+test.c:193:6:TestFilledCircles	32	static

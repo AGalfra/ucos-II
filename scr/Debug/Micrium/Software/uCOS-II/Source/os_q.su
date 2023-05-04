@@ -1,0 +1,11 @@
+os_q.c:74:8:OSQAccept	32	static
+os_q.c:140:12:OSQCreate	32	static
+os_q.c:245:12:OSQDel	40	static
+os_q.c:376:8:OSQFlush	24	static
+os_q.c:440:8:OSQPend	40	static
+os_q.c:567:8:OSQPendAbort	32	static
+os_q.c:644:8:OSQPost	24	static
+os_q.c:715:8:OSQPostFront	24	static
+os_q.c:795:8:OSQPostOpt	32	static
+os_q.c:879:8:OSQQuery	40	static
+os_q.c:939:7:OS_QInit	24	static

@@ -1,0 +1,3 @@
+COM.c:35:6:COMInit	8	static
+COM.c:60:9:COMPuts	24	static
+COM.c:78:9:COMGets	24	static

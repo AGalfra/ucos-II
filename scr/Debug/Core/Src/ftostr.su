@@ -1,0 +1,5 @@
+ftostr.c:36:6:reverse	24	static
+ftostr.c:62:9:intToStr	24	static
+ftostr.c:91:9:decToStr	24	static
+ftostr.c:115:6:ftostr	48	static
+ftostr.c:150:9:hexToStr	24	static
